@@ -1,0 +1,468 @@
+{
+  "Taioli, F": {
+    "Cabrini, I": 3,
+    "Fabrizi, GM": 3
+  },
+  "Lee, SM": {
+    "Chin, LS": 5,
+    "Li, L": 5
+  },
+  "Bader, AA": {
+    "Tamussino, KF": 3,
+    "Winter, R": 3
+  },
+  "Patzkó, A": {
+    "Shy, ME": 3
+  },
+  "Ouvrier, RA": {
+    "Burns, J": 3,
+    "Ryan, MM": 4
+  },
+  "Carter, J": {
+    "Abu-Rustum, NR": 4,
+    "Chi, DS": 3,
+    "Sonoda, Y": 4,
+    "Raviv, L": 3
+  },
+  "Moldovan, M": {
+    "Krarup, C": 3
+  },
+  "Macaluso, A": {
+    "Menotti, F": 3,
+    "Damiani, A": 3
+  },
+  "Mathevet, P": {
+    "Buenerd, A": 3,
+    "Dargent, D": 4
+  },
+  "Mangler, M": {
+    "Speiser, D": 3,
+    "Schneider, A": 3
+  },
+  "Morice, P": {
+    "Haie-Meder, C": 3,
+    "Duvillard, P": 3
+  },
+  "Frumovitz, M": {
+    "Ramirez, PT": 3,
+    "Schmeler, KM": 3
+  },
+  "Ramdharry, GM": {
+    "Marsden, JF": 3,
+    "Reilly, MM": 3
+  },
+  "Sabatelli, M": {
+    "Del Grande, A": 4,
+    "Luigetti, M": 6,
+    "Conte, A": 5,
+    "Fabrizi, GM": 4
+  },
+  "Barakat, RR": {
+    "Sonoda, Y": 4,
+    "Chi, DS": 4,
+    "Abu-Rustum, NR": 4
+  },
+  "Shen, K": {
+    "Xiang, Y": 3
+  },
+  "Choi, BO": {
+    "Lee, HJ": 4,
+    "Kim, SB": 6,
+    "Choi, YR": 3,
+    "Kim, HS": 3,
+    "Hong, YB": 6,
+    "Park, JM": 5,
+    "Choi, KG": 5,
+    "Yoo, JH": 8,
+    "Hyun, YS": 8,
+    "Jung, SC": 4,
+    "Chung, KW": 15,
+    "Yoon, BR": 3,
+    "Kim, YJ": 3,
+    "Koo, H": 8,
+    "Park, KD": 5
+  },
+  "Tang, BS": {
+    "Zhang, RX": 3
+  },
+  "Kun, A": {
+    "Sotelo, JR": 3,
+    "Rosso, G": 3
+  },
+  "Cassereau, J": {
+    "Reynier, P": 3,
+    "Bonneau, D": 3,
+    "Chevrollier, A": 3,
+    "Procaccio, V": 3
+  },
+  "Siskind, CE": {
+    "Shy, ME": 3
+  },
+  "Berciano, J": {
+    "Ramón, C": 3,
+    "Infante, J": 6,
+    "Combarros, O": 3,
+    "Pelayo-Negro, AL": 4,
+    "Gallardo, E": 5,
+    "García, A": 4
+  },
+  "Burgess, RW": {
+    "Seburn, KL": 3
+  },
+  "Rob, L": {
+    "Pluta, M": 5,
+    "Chmel, R": 3,
+    "Robova, H": 5,
+    "Skapa, P": 5,
+    "Strnad, P": 3
+  },
+  "Russell, MB": {
+    "Høyer, H": 3,
+    "Braathen, GJ": 3
+  },
+  "Del Priore, G": {
+    "Ungar, L": 4,
+    "Smith, JR": 5
+  },
+  "Speiser, D": {
+    "Mangler, M": 3,
+    "Köhler, C": 3
+  },
+  "Timmerman, V": {
+    "Bouhy, D": 3,
+    "Asselbergh, B": 4,
+    "Irobi, J": 3,
+    "De Winter, V": 3
+  },
+  "Ferrarin, M": {
+    "Pagliano, E": 3,
+    "Rabuffetti, M": 3,
+    "Moroni, I": 3,
+    "Pareyson, D": 3
+  },
+  "Vallat, JM": {
+    "Funalot, B": 5,
+    "Mathis, S": 3,
+    "Magy, L": 3
+  },
+  "Lanowska, M": {
+    "Speiser, D": 5,
+    "Hasenbein, K": 3,
+    "Chiantera, V": 3,
+    "Schneider, A": 5,
+    "Mangler, M": 6,
+    "Koehler, C": 3,
+    "Köhler, C": 3
+  },
+  "Cibula, D": {
+    "Fischerova, D": 4,
+    "Freitag, P": 3
+  },
+  "Li, J": {
+    "Guo, J": 3
+  },
+  "Li, L": {
+    "Lee, SM": 6,
+    "Chin, LS": 6
+  },
+  "Gess, B": {
+    "Young, P": 5,
+    "Schirmacher, A": 3
+  },
+  "Kabzińska, D": {
+    "Kochański, A": 3
+  },
+  "Schöls, L": {
+    "Synofzik, M": 3
+  },
+  "Rossor, AM": {
+    "Reilly, MM": 4
+  },
+  "Kleopa, KA": {
+    "Scherer, SS": 3
+  },
+  "Pareyson, D": {
+    "Moroni, I": 3,
+    "Fabrizi, GM": 3,
+    "Reilly, MM": 4,
+    "Marchesi, C": 4,
+    "Ferrarin, M": 3,
+    "Pagliano, E": 3,
+    "Salsano, E": 3
+  },
+  "Martini, R": {
+    "Kohl, B": 3,
+    "Wessig, C": 3,
+    "Groh, J": 5
+  },
+  "Covens, A": {
+    "Rosen, B": 3,
+    "Laframboise, S": 3,
+    "Murphy, J": 3
+  },
+  "Smith, JR": {
+    "Del Priore, G": 11,
+    "Ungar, L": 10,
+    "Lindsay, I": 3,
+    "Boyle, DC": 5,
+    "Saso, S": 3
+  },
+  "Dargent, D": {
+    "Mathevet, P": 4,
+    "Dargent, D": 4
+  },
+  "Zhang, RX": {
+    "Xia, K": 3,
+    "Tang, BS": 4,
+    "Zi, XH": 3
+  },
+  "Meisler, MH": {
+    "Grant, AE": 3,
+    "Ferguson, CJ": 3,
+    "Lenk, GM": 4
+  },
+  "Seeman, P": {
+    "Mazanec, R": 6,
+    "Haberlová, J": 6,
+    "Sakmaryová, I": 4,
+    "Laššuthová, P": 3
+  },
+  "Querleu, D": {
+    "Ferron, G": 5,
+    "Martel, P": 3,
+    "Narducci, F": 4,
+    "Leblanc, E": 5
+  },
+  "Young, P": {
+    "Gess, B": 7,
+    "Schirmacher, A": 4,
+    "Boentert, M": 4,
+    "Kleffner, I": 4
+  },
+  "Sinclair, CD": {
+    "Yousry, TA": 3,
+    "Thornton, JS": 3,
+    "Morrow, JM": 3,
+    "Hanna, MG": 3,
+    "Reilly, MM": 3
+  },
+  "Sonoda, Y": {
+    "Chi, DS": 3,
+    "Barakat, RR": 3,
+    "Abu-Rustum, NR": 7
+  },
+  "Roy, M": {
+    "Renaud, MC": 6,
+    "Plante, M": 11
+  },
+  "Robova, H": {
+    "Skapa, P": 3,
+    "Rob, L": 3
+  },
+  "Kochański, A": {
+    "Kabzińska, D": 6,
+    "Hausmanowa-Petrusewicz, I": 3,
+    "Drac, H": 3
+  },
+  "Nakagawa, M": {
+    "Nakagawa, M": 4
+  },
+  "Synofzik, M": {
+    "Haack, TB": 3,
+    "Schöls, L": 4
+  },
+  "Hayasaka, K": {
+    "Hayashi, M": 3,
+    "Abe, A": 4
+  },
+  "Fabrizi, GM": {
+    "Cabrini, I": 3,
+    "Taioli, F": 4
+  },
+  "Reilly, MM": {
+    "Ramdharry, G": 3,
+    "Blake, J": 7,
+    "Murphy, SM": 9,
+    "Rossor, AM": 7,
+    "Lunn, MP": 4,
+    "Pareyson, D": 3,
+    "Polke, JM": 5,
+    "Brandner, S": 4,
+    "Manji, H": 3,
+    "Polke, J": 3,
+    "Houlden, H": 8,
+    "Laurá, M": 5
+  },
+  "Menotti, F": {
+    "Macaluso, A": 3,
+    "Damiani, A": 3
+  },
+  "Espinós, C": {
+    "Sevilla, T": 3,
+    "Martínez-Rubio, D": 4,
+    "Palau, F": 3
+  },
+  "Lee, YC": {
+    "Soong, BW": 7,
+    "Chang, MH": 6,
+    "Lin, KP": 7
+  },
+  "Santoro, L": {
+    "Nolano, M": 3
+  },
+  "Bitoun, M": {
+    "Guicheney, P": 3
+  },
+  "Saito, T": {
+    "Endo, T": 6,
+    "Ishioka, S": 4,
+    "Baba, T": 5,
+    "Adachi, H": 3
+  },
+  "Ramirez, PT": {
+    "Soliman, PT": 3,
+    "Frumovitz, M": 4,
+    "Schmeler, KM": 6
+  },
+  "Murphy, SM": {
+    "Polke, J": 3,
+    "Houlden, H": 3,
+    "Reilly, MM": 6
+  },
+  "Schneider, A": {
+    "Possover, M": 4,
+    "Köhler, C": 5
+  },
+  "Tyynismaa, H": {
+    "Ylikallio, E": 3
+  },
+  "Shy, ME": {
+    "Patzko, A": 3,
+    "Wu, X": 3,
+    "Siskind, CE": 5,
+    "Patzkó, A": 3,
+    "Shy, ME": 6,
+    "Saporta, MA": 3,
+    "Reilly, MM": 3,
+    "Feely, SM": 4,
+    "Miller, LJ": 4
+  },
+  "Sevilla, T": {
+    "Martínez-Rubio, D": 3,
+    "Palau, F": 3,
+    "Espinós, C": 3
+  },
+  "Soong, BW": {
+    "Lee, YC": 3,
+    "Chang, MH": 3,
+    "Lin, KP": 3
+  },
+  "Thornton, JS": {
+    "Yousry, TA": 3,
+    "Sinclair, CD": 3,
+    "Morrow, JM": 3,
+    "Hanna, MG": 3,
+    "Reilly, MM": 3
+  },
+  "Burns, J": {
+    "Shy, R": 3,
+    "Estilow, T": 3,
+    "Ouvrier, RA": 5,
+    "Pareyson, D": 3,
+    "Muntoni, F": 3,
+    "Shy, ME": 3,
+    "Reilly, MM": 3,
+    "Ryan, MM": 6,
+    "Finkel, RS": 3,
+    "Laurá, M": 3
+  },
+  "Marques, W": {
+    "Barreira, AA": 4,
+    "Lourenço, CM": 5,
+    "Bueno, KC": 3
+  },
+  "Kaler, SG": {
+    "Kaler, SG": 4
+  },
+  "Suter, U": {
+    "Horn, M": 3,
+    "Somandin, C": 3,
+    "Pereira, JA": 4
+  },
+  "Lupski, JR": {
+    "Gonzaga-Jauregui, C": 5,
+    "Muzny, DM": 3,
+    "Zhang, F": 4,
+    "Gibbs, RA": 3
+  },
+  "Funalot, B": {
+    "Vallat, JM": 3
+  },
+  "Shepherd, JH": {
+    "Shepherd, JH": 4
+  },
+  "Finkel, RS": {
+    "Estilow, T": 3,
+    "Burns, J": 3
+  },
+  "Chevrollier, A": {
+    "Reynier, P": 3,
+    "Bonneau, D": 3,
+    "Amati-Bonneau, P": 3,
+    "Procaccio, V": 3,
+    "Gueguen, N": 3
+  },
+  "Saso, S": {
+    "Smith, JR": 3
+  },
+  "Plante, M": {
+    "Renaud, MC": 4,
+    "Plante, M": 6,
+    "Roy, M": 9
+  },
+  "Züchner, S": {
+    "Speziani, F": 3,
+    "Montenegro, G": 3
+  },
+  "Abu-Rustum, NR": {
+    "Barakat, RR": 10,
+    "Alektiar, KM": 3,
+    "Leitao, MM": 3,
+    "Carter, J": 6,
+    "Park, KJ": 6,
+    "Chi, DS": 12,
+    "Sonoda, Y": 20,
+    "Raviv, L": 3
+  },
+  "Sereda, MW": {
+    "Stassart, RM": 3,
+    "Fledrich, R": 3
+  },
+  "Chung, KW": {
+    "Lee, HJ": 3,
+    "Yoo, JH": 6,
+    "Choi, BO": 9,
+    "Hyun, YS": 4,
+    "Koo, H": 4,
+    "Park, JM": 3,
+    "Nakhro, K": 4,
+    "Choi, KG": 3
+  },
+  "Takashima, H": {
+    "Tokunaga, S": 3,
+    "Hashiguchi, A": 4
+  },
+  "Kennerson, M": {
+    "Chaudhry, R": 3,
+    "Nicholson, G": 3
+  },
+  "Houlden, H": {
+    "Reilly, MM": 3
+  },
+  "Luigetti, M": {
+    "Del Grande, A": 4,
+    "Conte, A": 5,
+    "Sabatelli, M": 6,
+    "Fabrizi, GM": 4
+  }
+}
